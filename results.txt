@@ -1,0 +1,4 @@
+Baseline Accuracy: 0.6261
+Baseline F1: 0.6103
+Extended Accuracy: 0.6099
+Extended F1: 0.5934
